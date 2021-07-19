@@ -128,4 +128,3 @@ wheel==0.35.1
 widgetsnbextension==3.5.1
 wrapt==1.12.1
 zipp==3.5.0
-tensorflow
